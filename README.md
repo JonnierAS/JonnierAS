@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonnier Salaverria</h1>
 <h3 align="center">Soy un desarrollador autónomo con experiencia en JavaScript, HTML y CSS. Curse la carrera de Full Stack Developer en Henry, donde aprendi las últimas tecnologías y lenguajes de programación consolidando mis conocimiento en el desarrollo web, tanto en front como back end.</h3>
 
-- 🔭 I’m currently working on [videogame Project](https://front-end-videogames.vercel.app)
-
 - 📫 How to reach me **jonniersalaverria@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
