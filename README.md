@@ -13,6 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnieras&show_icons=true&locale=en&layout=compact" alt="jonnieras" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnieras&label=Profile%20views&color=0e75b6&style=flat" alt="jonnieras" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonnieras&show_icons=true&locale=en" alt="jonnieras" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonnieras&" alt="jonnieras" /></p>
